@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Your_Name - Data Science Portfolio"
+  title: "Chase Box - Data Science Portfolio"
   favicon: Images/favicon.png
   back-to-top-navigation: true
   repo-url: https://github.com/username/username.github.io
@@ -11,10 +11,10 @@ website:
 
   page-footer: 
     border: true
-    left: "Your_Name 2024©"
+    left: "Chase Box 2024©"
     right: 
       - icon: linkedin
-        href: Your_LinkedIn_URL
+        href: https://www.linkedin.com/in/chase-box-46a3853a7/
 
   navbar:
     background: primary
