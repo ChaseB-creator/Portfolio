@@ -1,89 +1,77 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Chase Box's Resume
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Chase Box
+Computer Science Student | Java & Web Developer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="mailto:chasioboxio@gmail.com">chasioboxio@gmail.com</a>
+| (417) 413-8820
+| <a href="https://www.linkedin.com/in/chase-box-46a3853a7">LinkedIn</a>
+| <a href="https://github.com/ChaseB-creator">GitHub</a>
 </div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`July 2025 - July 2027`
+__Bachelor's of Computer Science__, Brigham Young University - Idaho, Rexburg, Idaho
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- Currently holding a 3.95 / 4.0 GPA.
+- Cooperated in collaborative team projects and conducted informational interviews with industry professionals.
 
-- Sizar
+`August 2020 - May 2024`
+__Associate's of Arts Degree__, Ozark Technical Community College, Springfield, Missouri
 
-`1667 - death`
-__Trinity College, Cambridge__
+- Graduated with a GPA higher than 3.5 / 4.0.
+- Mentored beginner programmers and assisted peers with C# concepts.
 
-- Fellow
 
+## Career Experience
+
+`5 Months (Present)`
+__Campus Custodian__, Brigham Young University - Idaho, Rexburg, Idaho
+
+- Engaged communication skills, team coordination, team correspondence, leadership, and helping others.
+- Maintained campus cleanliness as part of a 7-person team, demonstrating consistency and reliability.
+
+
+## Skills
+
+- Problem identification and efficient, solution-oriented thinking through teamwork and active communication.
+- Technical collaborator; works well in team environments.
+- Specializes in Java development, web development, and frontend/backend application development.
+- Proficient in HTML, CSS, and JavaScript.
+
+
+## Projects
+
+`September 2025 - November 2025`
+__Crypto Miner__
+
+- Led design and development of an idle game using HTML, CSS, JavaScript, and Rust.
+- Coordinated a 4-person team over a 14-week development cycle.
+
+`April 2024 - May 2024`
+__Java School Database__
+
+- Designed a relational database in Java using NetBeans to manage student and staff records.
+- Incorporated instructor feedback to refine and complete the project.
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+- Obtained Associate's of Arts degree upon graduation from Ozark Technical Community College, May 2024; transferred credits to Brigham Young University - Idaho, July 2025.
+- Received A+ Scholarship in recognition of peer tutoring contributions.
 
 
+## Languages
 
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+- English (native)
+- Spanish (4+ years of study; led and facilitated peers in learning Spanish)
+- French (currently learning)
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: March 2026 -->
